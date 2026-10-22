@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mykholy.github.io/"><strong>Portfolio</strong></a>
+  <a href="https://mykholy.github.io/?utm_source=github&amp;utm_medium=profile"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
   <a href="https://mykholy.github.io/assets/cv/Ahmed_Elkholy_Senior_Backend_Engineer_CV_2026.pdf">Download CV (PDF)</a>
   &nbsp;·&nbsp;
@@ -66,6 +66,16 @@ Provider-driver architecture covering WhatsApp, Messenger, Instagram, Gmail/emai
 **Other systems:** TrippleStock (POS and inventory correctness), Dorosak / IBAL / eMicroLearn (EdTech, subscriptions and integrations), Sajah (events and ticketing), gym management with biometric reconciliation, financial workflows and electronic invoicing.
 
 [Explore all 17 projects and technical case studies →](https://mykholy.github.io/#work)
+
+## Applied AI, automation & voice workflows
+
+I build the **backend and integration layer** behind AI-powered software—not just prompts or demos:
+
+- **AI media platforms:** production-oriented orchestration across 8+ AI/media providers for Tik Video, with queues, webhooks, provider fallbacks, credit settlement and failure recovery.
+- **AI automation & product integrations:** OpenAI-backed features, messaging channels, workflow triggers, safe data handling and human-review paths for operational use cases.
+- **Voice and audio AI:** experience integrating ElevenLabs and audio-generation APIs into asynchronous media flows. Conversational phone agents can be scoped as integrations, but I do not present an unverified phone-agent product as delivered.
+
+**[Explore AI capabilities and implementation examples →](https://mykholy.github.io/?utm_source=github&utm_medium=profile#ai)**
 
 ## Open source & reusable engineering
 
